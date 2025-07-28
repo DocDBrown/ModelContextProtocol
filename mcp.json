@@ -1,0 +1,55 @@
+{
+  "generation_models": [
+    {
+      "model_path": "",
+      "model_name": "",
+      "model_temperature": "",
+      "model_top_p": "",
+      "model_max_output_tokens": "",
+      "model_tool_use": "",
+      "model_logit_bias": "",
+      "model_log_probabilities": "",
+      "messages": [
+        {
+          "role": "system",
+          "content": ""
+        },
+        {
+          "role": "user",
+          "content": ""
+        }
+      ]
+    }
+  ],
+  "prompt_type": "",
+  "system_role": "",
+  "n_parameters": [
+    {
+      "parameter_name": "",
+      "parameter_role": "",
+      "parameter_value": ""
+    }
+  ],
+  "n_objectives": [
+    {
+      "objective_name": "",
+      "output_key": "",
+      "output_description": "",
+      "objective_progress": 0.0,
+      "output_value": ""
+    }
+  ],
+  "allowed_iterations": 3,
+  "user_context": {
+    "user_id": "",
+    "user_role": "",
+    "user_language": "",
+    "user_allowed_tool_use": [""],
+    "user_allowed_data_domains": [""]
+  },
+  "is_e2e": false,
+  "n_bonus": {
+    "linting_required": false,
+    "testing_required": false
+  }
+}
