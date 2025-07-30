@@ -47,9 +47,9 @@
     "user_allowed_tool_use": [""],
     "user_allowed_data_domains": [""]
   },
-  "is_e2e": false,
   "n_bonus": {
     "linting_required": false,
-    "testing_required": false
+    "unit_and_integrtion_testing_required": false,
+    "end_to_end_testing_required": false
   }
 }
